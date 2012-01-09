@@ -1,0 +1,15 @@
+///////////////////////////////////////////////////////////////////////////////
+//              PHP Tiny OAuth Client Library README                         //
+///////////////////////////////////////////////////////////////////////////////
+
+With due respect to "OAuth.php" written by John Jawed, it seemed  overcomplica-
+ted to me, since to make a simple request you  had  to create  whole  bunch  of 
+objects and make lots of method calls. This is  smaller  and simplier implemen-
+tation of OAuth protocol.
+
+It is undocumented right now,  has  limited  features  and  is  a  CLIENT  only
+library. I'll try to fix this in time, but if you could offer any help I  would
+gladly accept it!
+
+Regards,
+Konstantin Dvortsov
