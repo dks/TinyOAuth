@@ -1,4 +1,5 @@
 <?php
+// vim: set tabstop=2: //
 // Typical Errs on OAuth:
 // 1. When building base string: "http://" and "example.com" ONLY are lower case, rest of url can be uppercase
 // 2. Base string includes GET params, but Authorization header does NOT!
